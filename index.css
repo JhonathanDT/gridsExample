@@ -10,6 +10,7 @@ body {
 
 }
 
+/* added a width for my containers */
 .blackContainers{
-    width: ;
+    width: 10px ;
 }
